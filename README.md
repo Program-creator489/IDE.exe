@@ -3,3 +3,4 @@ x64 system you should get that version because you won't have to deal with the a
 luckily have a x64 system anyways.
 
 The x86 which is 32bit version got marked as a "Malicous File" by windows.
+It's false classified as this "Trojan:Win32/KillMBR.EABR!MTB" if you don't belive me you can review the sourse code.
